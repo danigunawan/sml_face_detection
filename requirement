@@ -1,0 +1,12 @@
+tensorflow-gpu==1.14.0
+mxnet-cu100
+keras
+dlib
+sklearn
+imgaug
+efficientnet==1.0.0b3
+tensorflow-model-optimization
+tqdm
+mtcnn
+face_alignment
+opencv-python==4.1.0.25

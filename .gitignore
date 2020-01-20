@@ -1,0 +1,23 @@
+__pycache__
+*__pycache__
+.idea
+*.idea
+.vscode/*
+*.pb
+*.pyc
+.vscode/*_
+*.txt
+*.h5
+*.mp4
+# check point
+*.index
+*.meta
+*.data-00000-of-00001
+*.zip
+*.pickle
+*.npy
+*.jpg
+*.log
+
+data
+models
